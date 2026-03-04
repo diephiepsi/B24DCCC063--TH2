@@ -1,4 +1,3 @@
-// src/pages/TH02/Bai2/components/ExamGenerator.tsx
 import React from 'react';
 import { Form, Card, Space, InputNumber, Select, Button } from 'antd';
 import { ThunderboltOutlined } from '@ant-design/icons';

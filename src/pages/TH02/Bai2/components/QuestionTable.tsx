@@ -1,4 +1,3 @@
-// src/pages/TH02/Bai2/components/QuestionTable.tsx
 import React from 'react';
 import ProTable from '@ant-design/pro-table';
 import { levels, blocks, subjects } from '../utils';

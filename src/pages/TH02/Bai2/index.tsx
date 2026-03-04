@@ -1,4 +1,3 @@
-// src/pages/TH02/Bai2/index.tsx
 import React, { useState, useEffect, useMemo } from 'react';
 import { PageContainer } from '@ant-design/pro-layout';
 import { Tabs, Button, message } from 'antd';

@@ -1,4 +1,3 @@
-// src/pages/TH02/Bai2/components/ExamHistory.tsx
 import React from 'react';
 import { Table, Button, Modal, Tag } from 'antd';
 import { EyeOutlined } from '@ant-design/icons';

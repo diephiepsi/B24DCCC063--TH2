@@ -1,4 +1,3 @@
-// src/pages/TH02/Bai2/components/QuestionForm.tsx
 import React from 'react';
 import { ModalForm, ProFormSelect, ProFormTextArea } from '@ant-design/pro-form';
 import { levels, blocks, subjects } from '../utils';
