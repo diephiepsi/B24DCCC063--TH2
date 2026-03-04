@@ -1,3 +1,4 @@
+// src/pages/TH02/Bai2/utils.ts
 export interface Question {
   id: string;
   content: string;
